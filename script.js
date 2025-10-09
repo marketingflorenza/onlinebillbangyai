@@ -4,7 +4,7 @@
 const CONFIG = {
     // <<< UPDATED VALUES FOR BANGYAI
     API_BASE_URL: 'https://backend-api-bangyai.vercel.app/api',
-    SHEET_ID: '1PdYqXkrrRGIv-6cCgOn8VXE6MpQhMlBGpFw7BbfzFbI',
+    SHEET_ID: '1JU-rhoWIEHH4oSwIWApo8mUC8zQpNcT0Xd-70E_6CNM',
     SHEET_NAME_SUMMARY: 'SUM',
 };
 
